@@ -77,6 +77,17 @@
     "featured": true
   },
   {
+    "name": "Jumpa",
+    "url": "https://usejumpa.com/nimiq",
+    "type": "evm",
+    "category": "On-chain services",
+    "description": "Cash out USDT to any Nigerian bank account, or top up USDT with Naira, right in Nimiq Pay. Gasless, no sign-up.",
+    "logo": "./assets/mini-apps/martinvibes-jumpa.svg",
+    "source": "https://github.com/official-jumpa/jumpa-web-app",
+    "developer": "@martinvibes",
+    "featured": false
+  },
+  {
     "name": "Knock",
     "url": "https://knockchat.org",
     "type": "nimiq",
